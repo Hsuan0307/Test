@@ -2,8 +2,8 @@
 
 #### Plan
 - [ ] simple login page complete
-      - [ ] React learning
-      - [ ] TypeScript review
+- [ ] React learning
+- [ ] TypeScript review
       
 
 
